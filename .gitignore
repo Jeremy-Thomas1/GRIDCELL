@@ -2,6 +2,7 @@
 *.png
 file*
 results*
+RESULTS*
 *.r
 *.c
 *~
