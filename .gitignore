@@ -1,0 +1,7 @@
+**/DATASET
+*.png
+file*
+results*
+*.r
+*.c
+*~

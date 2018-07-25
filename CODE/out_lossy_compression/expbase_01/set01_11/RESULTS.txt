@@ -1,0 +1,8 @@
+IMAGE ID: DATASET/set01/11.jpg
+--EXP BASE = 1.414214 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (211 grid cells)------
+--------MSE  = 0.018133
+--------Corr = 0.809669
+--------LINEAR SAMPLING (211 grid cells)----------
+--------MSE  = 0.049713
+--------Corr = 0.236010

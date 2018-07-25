@@ -1,0 +1,80 @@
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.331214
+--------Corr = 0.083722
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.331160
+--------Corr = 0.084683
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.330651
+--------Corr = 0.083827
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.330643
+--------Corr = 0.083972
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.332046
+--------Corr = 0.080279
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.331926
+--------Corr = 0.082479
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.330054
+--------Corr = 0.073529
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.330389
+--------Corr = 0.066322
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.331436
+--------Corr = 0.084558
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.331487
+--------Corr = 0.083649
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.329968
+--------Corr = 0.082673
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.329972
+--------Corr = 0.082604
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.329553
+--------Corr = 0.085094
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.329856
+--------Corr = 0.079545
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.331241
+--------Corr = 0.076599
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.331082
+--------Corr = 0.079642
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.330155
+--------Corr = 0.083169
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.330541
+--------Corr = 0.075869
+IMAGE ID: whitenoise
+--EXP BASE = 4.000000 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (56 grid cells)------
+--------MSE  = 0.329669
+--------Corr = 0.084028
+--------LINEAR SAMPLING (56 grid cells)----------
+--------MSE  = 0.329826
+--------Corr = 0.081167

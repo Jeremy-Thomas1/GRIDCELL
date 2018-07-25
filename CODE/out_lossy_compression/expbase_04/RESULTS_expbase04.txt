@@ -1,0 +1,800 @@
+IMAGE ID: DATASET/set01/10.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.006811
+--------Corr = 0.908756
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.038799
+--------Corr = 0.088444
+IMAGE ID: DATASET/set01/11.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.022848
+--------Corr = 0.752331
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.051599
+--------Corr = 0.140948
+IMAGE ID: DATASET/set01/12.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.012985
+--------Corr = 0.789645
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.033928
+--------Corr = 0.128032
+IMAGE ID: DATASET/set01/13.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.006668
+--------Corr = 0.826938
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.020854
+--------Corr = 0.105988
+IMAGE ID: DATASET/set01/14.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008365
+--------Corr = 0.947372
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.081353
+--------Corr = 0.056806
+IMAGE ID: DATASET/set01/15.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007315
+--------Corr = 0.706619
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.014201
+--------Corr = 0.167165
+IMAGE ID: DATASET/set01/16.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.016768
+--------Corr = 0.781730
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.042394
+--------Corr = 0.129564
+IMAGE ID: DATASET/set01/17.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.013534
+--------Corr = 0.897823
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.069248
+--------Corr = 0.088623
+IMAGE ID: DATASET/set01/18.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.005404
+--------Corr = 0.747757
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.012100
+--------Corr = 0.113953
+IMAGE ID: DATASET/set01/19.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008401
+--------Corr = 0.935378
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.067024
+--------Corr = 0.047164
+IMAGE ID: DATASET/set01/20.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.010016
+--------Corr = 0.595508
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.015224
+--------Corr = 0.138089
+IMAGE ID: DATASET/set01/21.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.016718
+--------Corr = 0.807312
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.047037
+--------Corr = 0.142170
+IMAGE ID: DATASET/set01/22.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.006743
+--------Corr = 0.948502
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.067054
+--------Corr = 0.046099
+IMAGE ID: DATASET/set01/23.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.005234
+--------Corr = 0.929326
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.038169
+--------Corr = 0.074834
+IMAGE ID: DATASET/set01/24.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.004570
+--------Corr = 0.932184
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.034745
+--------Corr = 0.061821
+IMAGE ID: DATASET/set01/25.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.009535
+--------Corr = 0.896208
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.048043
+--------Corr = 0.091530
+IMAGE ID: DATASET/set01/26.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.014105
+--------Corr = 0.893629
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.069468
+--------Corr = 0.089246
+IMAGE ID: DATASET/set01/27.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017594
+--------Corr = 0.754812
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.040621
+--------Corr = 0.081294
+IMAGE ID: DATASET/set01/28.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.006711
+--------Corr = 0.855547
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.024808
+--------Corr = 0.096010
+IMAGE ID: DATASET/set01/29.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.009387
+--------Corr = 0.870625
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.038403
+--------Corr = 0.099561
+IMAGE ID: DATASET/set01/30.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.027817
+--------Corr = 0.775756
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.068617
+--------Corr = 0.133162
+IMAGE ID: DATASET/set01/31.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.011320
+--------Corr = 0.828394
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.035566
+--------Corr = 0.119393
+IMAGE ID: DATASET/set01/32.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008987
+--------Corr = 0.955938
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.103992
+--------Corr = 0.052693
+IMAGE ID: DATASET/set01/33.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.005794
+--------Corr = 0.917861
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.036588
+--------Corr = 0.072756
+IMAGE ID: DATASET/set01/34.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007528
+--------Corr = 0.882782
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.033785
+--------Corr = 0.098017
+IMAGE ID: DATASET/set01/35.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007369
+--------Corr = 0.963401
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.102377
+--------Corr = 0.041126
+IMAGE ID: DATASET/set01/36.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.006368
+--------Corr = 0.930588
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.047325
+--------Corr = 0.064631
+IMAGE ID: DATASET/set01/37.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.010865
+--------Corr = 0.844241
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.037476
+--------Corr = 0.096038
+IMAGE ID: DATASET/set01/38.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.009402
+--------Corr = 0.778475
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.023406
+--------Corr = 0.138878
+IMAGE ID: DATASET/set01/39.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.015754
+--------Corr = 0.809612
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.045475
+--------Corr = 0.074008
+IMAGE ID: DATASET/set01/40.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008722
+--------Corr = 0.897864
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.044737
+--------Corr = 0.076238
+IMAGE ID: DATASET/set01/41.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.002547
+--------Corr = 0.824382
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.007841
+--------Corr = 0.117571
+IMAGE ID: DATASET/set01/42.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.014540
+--------Corr = 0.834092
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.047281
+--------Corr = 0.102432
+IMAGE ID: DATASET/set01/43.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.022748
+--------Corr = 0.768600
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.054471
+--------Corr = 0.141641
+IMAGE ID: DATASET/set01/44.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.010622
+--------Corr = 0.905274
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.058479
+--------Corr = 0.079806
+IMAGE ID: DATASET/set01/45.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.023464
+--------Corr = 0.873629
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.098295
+--------Corr = 0.090063
+IMAGE ID: DATASET/set01/46.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008428
+--------Corr = 0.844698
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.029055
+--------Corr = 0.111216
+IMAGE ID: DATASET/set01/47.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007461
+--------Corr = 0.912250
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.044223
+--------Corr = 0.073914
+IMAGE ID: DATASET/set01/48.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007185
+--------Corr = 0.818016
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.021479
+--------Corr = 0.105042
+IMAGE ID: DATASET/set01/49.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007962
+--------Corr = 0.877569
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.034290
+--------Corr = 0.099838
+IMAGE ID: DATASET/set01/50.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.029127
+--------Corr = 0.641510
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.047933
+--------Corr = 0.177813
+IMAGE ID: DATASET/set01/51.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.009271
+--------Corr = 0.937407
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.076195
+--------Corr = 0.057472
+IMAGE ID: DATASET/set01/52.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.015424
+--------Corr = 0.773614
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.037711
+--------Corr = 0.135353
+IMAGE ID: DATASET/set01/53.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.010624
+--------Corr = 0.701747
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.020340
+--------Corr = 0.168218
+IMAGE ID: DATASET/set01/54.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008397
+--------Corr = 0.923115
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.056542
+--------Corr = 0.065956
+IMAGE ID: DATASET/set01/55.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.004622
+--------Corr = 0.910843
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.026981
+--------Corr = 0.073864
+IMAGE ID: DATASET/set01/56.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.010321
+--------Corr = 0.875267
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.043736
+--------Corr = 0.093725
+IMAGE ID: DATASET/set01/57.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017578
+--------Corr = 0.709521
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.034695
+--------Corr = 0.141084
+IMAGE ID: DATASET/set01/58.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.015158
+--------Corr = 0.857998
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.056948
+--------Corr = 0.093528
+IMAGE ID: DATASET/set01/59.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.005502
+--------Corr = 0.934797
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.043450
+--------Corr = 0.061406
+IMAGE ID: DATASET/set02/10.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.012392
+--------Corr = 0.658775
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.021316
+--------Corr = 0.162438
+IMAGE ID: DATASET/set02/11.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008189
+--------Corr = 0.500005
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.010375
+--------Corr = 0.223162
+IMAGE ID: DATASET/set02/12.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.013542
+--------Corr = 0.849728
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.048137
+--------Corr = 0.109394
+IMAGE ID: DATASET/set02/13.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.004358
+--------Corr = 0.687859
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.008011
+--------Corr = 0.177673
+IMAGE ID: DATASET/set02/14.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007668
+--------Corr = 0.810769
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.022037
+--------Corr = 0.123639
+IMAGE ID: DATASET/set02/15.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008337
+--------Corr = 0.817770
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.024759
+--------Corr = 0.127615
+IMAGE ID: DATASET/set02/16.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.018876
+--------Corr = 0.718125
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.037933
+--------Corr = 0.163611
+IMAGE ID: DATASET/set02/17.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.009278
+--------Corr = 0.773554
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.022515
+--------Corr = 0.159435
+IMAGE ID: DATASET/set02/18.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.022219
+--------Corr = 0.761152
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.051790
+--------Corr = 0.139778
+IMAGE ID: DATASET/set02/19.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.004157
+--------Corr = 0.872739
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.017281
+--------Corr = 0.096165
+IMAGE ID: DATASET/set02/20.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.011476
+--------Corr = 0.720937
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.023290
+--------Corr = 0.159383
+IMAGE ID: DATASET/set02/21.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.014636
+--------Corr = 0.574144
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.021245
+--------Corr = 0.164269
+IMAGE ID: DATASET/set02/22.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.015413
+--------Corr = 0.581441
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.022683
+--------Corr = 0.160951
+IMAGE ID: DATASET/set02/23.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.012353
+--------Corr = 0.885849
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.056994
+--------Corr = 0.082255
+IMAGE ID: DATASET/set02/24.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.018755
+--------Corr = 0.620745
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.029794
+--------Corr = 0.153566
+IMAGE ID: DATASET/set02/25.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007590
+--------Corr = 0.771367
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.018410
+--------Corr = 0.133066
+IMAGE ID: DATASET/set02/26.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.002819
+--------Corr = 0.869477
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.011428
+--------Corr = 0.103398
+IMAGE ID: DATASET/set02/27.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.013980
+--------Corr = 0.714899
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.028067
+--------Corr = 0.135752
+IMAGE ID: DATASET/set02/28.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017358
+--------Corr = 0.812131
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.050310
+--------Corr = 0.115402
+IMAGE ID: DATASET/set02/29.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.018575
+--------Corr = 0.690905
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.034818
+--------Corr = 0.142720
+IMAGE ID: DATASET/set02/30.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.013653
+--------Corr = 0.778110
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.034134
+--------Corr = 0.116716
+IMAGE ID: DATASET/set02/31.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.024740
+--------Corr = 0.727861
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.051733
+--------Corr = 0.129449
+IMAGE ID: DATASET/set02/32.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.026053
+--------Corr = 0.789906
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.068201
+--------Corr = 0.124893
+IMAGE ID: DATASET/set02/33.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.034006
+--------Corr = 0.739799
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.073172
+--------Corr = 0.161098
+IMAGE ID: DATASET/set02/34.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.020070
+--------Corr = 0.740887
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.043587
+--------Corr = 0.142844
+IMAGE ID: DATASET/set02/35.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.020836
+--------Corr = 0.773865
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.051050
+--------Corr = 0.131228
+IMAGE ID: DATASET/set02/36.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.016093
+--------Corr = 0.832686
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.052033
+--------Corr = 0.092700
+IMAGE ID: DATASET/set02/37.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.004224
+--------Corr = 0.732070
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.008873
+--------Corr = 0.159008
+IMAGE ID: DATASET/set02/38.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.016820
+--------Corr = 0.809952
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.048265
+--------Corr = 0.113940
+IMAGE ID: DATASET/set02/39.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.018851
+--------Corr = 0.828803
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.059181
+--------Corr = 0.130833
+IMAGE ID: DATASET/set02/40.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.023665
+--------Corr = 0.715907
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.047672
+--------Corr = 0.134172
+IMAGE ID: DATASET/set02/41.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.022030
+--------Corr = 0.796973
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.059357
+--------Corr = 0.130387
+IMAGE ID: DATASET/set02/42.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.011491
+--------Corr = 0.768052
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.027486
+--------Corr = 0.138115
+IMAGE ID: DATASET/set02/43.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.011790
+--------Corr = 0.894602
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.058462
+--------Corr = 0.099188
+IMAGE ID: DATASET/set02/44.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.014618
+--------Corr = 0.888918
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.069031
+--------Corr = 0.095482
+IMAGE ID: DATASET/set02/45.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.022199
+--------Corr = 0.673111
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.039809
+--------Corr = 0.138896
+IMAGE ID: DATASET/set02/46.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017248
+--------Corr = 0.649692
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.028763
+--------Corr = 0.190593
+IMAGE ID: DATASET/set02/47.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.014997
+--------Corr = 0.913788
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.090243
+--------Corr = 0.084804
+IMAGE ID: DATASET/set02/48.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017820
+--------Corr = 0.874531
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.074788
+--------Corr = 0.113668
+IMAGE ID: DATASET/set02/49.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017231
+--------Corr = 0.725572
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.035771
+--------Corr = 0.130277
+IMAGE ID: DATASET/set02/50.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.025608
+--------Corr = 0.535881
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.035070
+--------Corr = 0.154466
+IMAGE ID: DATASET/set02/51.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.017771
+--------Corr = 0.723306
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.036357
+--------Corr = 0.156570
+IMAGE ID: DATASET/set02/52.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.007515
+--------Corr = 0.708598
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.014788
+--------Corr = 0.142485
+IMAGE ID: DATASET/set02/53.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.008117
+--------Corr = 0.615405
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.012357
+--------Corr = 0.232890
+IMAGE ID: DATASET/set02/54.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.018775
+--------Corr = 0.832082
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.060203
+--------Corr = 0.116330
+IMAGE ID: DATASET/set02/55.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.019016
+--------Corr = 0.592899
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.028493
+--------Corr = 0.168531
+IMAGE ID: DATASET/set02/56.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.022850
+--------Corr = 0.697813
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.043559
+--------Corr = 0.148403
+IMAGE ID: DATASET/set02/57.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.013982
+--------Corr = 0.820225
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.042219
+--------Corr = 0.109101
+IMAGE ID: DATASET/set02/58.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.005673
+--------Corr = 0.712259
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.011209
+--------Corr = 0.162787
+IMAGE ID: DATASET/set02/59.jpg
+--EXP BASE = 2.718282 , BANDWIDTH RADIUS = 5.000000 
+--------EXPONENTIAL SAMPLING (72 grid cells)------
+--------MSE  = 0.035642
+--------Corr = 0.709542
+--------LINEAR SAMPLING (72 grid cells)----------
+--------MSE  = 0.069880
+--------Corr = 0.162696
