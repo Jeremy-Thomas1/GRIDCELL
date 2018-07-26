@@ -1,4 +1,10 @@
 **/DATASET
+**/out_lossy_compression/*
+**/out_place/*
+**/out_regular/*
+**/out_rescale/*
+**/out_noise/*
+!**/.keep
 *.png
 file*
 results*
